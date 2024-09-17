@@ -3,16 +3,16 @@ import React from 'react'
 
 const Card = (props) => {
   let questions = {
-    "Who Has Won the Most Ballon d'Ors in History?": 'Lionel Messi',
-    "Which Club Has Won the Most Champions Leagues?": 'Real Madrid',
-    "Who Is The Most Expensive Goalkeeper Of All-Time?": 'Kepa Arrizabalaga',
-    "Which Two Clubs Have Won The Sextuple?": 'Bayern Munich and Barcelona',
-    "Who Scored The Hand of God Goal?" : 'Diego Maradona',
-    "Who Is The Youngest La Liga Goalscorer Currently?": 'Lamine Yamal',
-    'Who is The All Time Top World Cup Scorer?': 'Miroslav Klose',
+    "Who has won the most Ballon d'Ors in history?": 'Lionel Messi',
+    "Which club has won the most Champions Leagues?": 'Real Madrid',
+    "Who is the most expensive goalkeeper of all-time?": 'Kepa Arrizabalaga',
+    "Which two clubs have won the sextuple?": 'Bayern Munich and Barcelona',
+    "Who scored the \"Hand of God\" goal?" : 'Diego Maradona',
+    "Who is the youngest La Liga goalscorer currently?": 'Lamine Yamal',
+    "Who is the all time top World Cup scorer?": 'Miroslav Klose',
     "How many World Cups have there been in history?": '22',
-    "Which Clubs Has Pep Guardiola Managed?": 'Manchester City, Barcelona, and Bayern Munich',
-    "What Is The Record For Most Goals Scored In A Calendar Year?": '91',
+    "Which clubs has Pep Guardiola managed?": 'Manchester City, Barcelona, and Bayern Munich',
+    "What is the record for most goals scored in a calendar year?": '91',
   };
   const [shuffledQuestions, setShuffledQuestions] = useState(() => {
     const shuffledKeys = Object.keys(questions).sort(

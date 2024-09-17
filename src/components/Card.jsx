@@ -7,7 +7,7 @@ const Card = (props) => {
     "Which club has won the most Champions Leagues?": 'Real Madrid',
     "Who is the most expensive goalkeeper of all-time?": 'Kepa Arrizabalaga',
     "Which two clubs have won the sextuple?": 'Bayern Munich and Barcelona',
-    "Who scored the \"Hand of God\" goal?" : 'Diego Maradona',
+    "Who scored the \"Hand of God\" goal?": 'Diego Maradona',
     "Who is the youngest La Liga goalscorer currently?": 'Lamine Yamal',
     "Who is the all time top World Cup scorer?": 'Miroslav Klose',
     "How many World Cups have there been in history?": '22',

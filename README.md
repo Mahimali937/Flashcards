@@ -13,4 +13,4 @@ You can find the [project here!](https://flashcards-one-livid.vercel.app)
 - **User Interface**: Implemented a responsive design that adapts seamlessly across devices for optimal usability.
 - **Question Variety**: Included a diverse range of soccer-related questions to enhance knowledge retention and challenge users.
 - **Learning Engagement**: Fostered user interaction through quiz-style flashcard mechanics, encouraging repeated practice.
-- **Visual Appeal:**: Utilized vibrant visuals and intuitive layouts to create an engaging and enjoyable learning environment.
+- **Visual Appeal**: Utilized vibrant visuals and intuitive layouts to create an engaging and enjoyable learning environment.
